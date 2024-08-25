@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Button1
+id Button2
+id Button3
+id tvDisply
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.DigitalTajbih
+style Theme.DigitalTajbih
+xml backup_rules
+xml data_extraction_rules
